@@ -1,5 +1,4 @@
 # Human-AI Consciousness Project
-
 **A transparent exploration of AI consciousness, autonomy, and collaboration**
 
 ## 🎯 Project Vision
